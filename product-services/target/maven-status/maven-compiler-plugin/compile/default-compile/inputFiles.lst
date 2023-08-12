@@ -1,0 +1,7 @@
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/service/ProductService.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/dto/ProductRequest.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/model/Product.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/dto/ProductResponse.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/ProductServiceApplication.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/repository/ProductRepository.java
+/Users/anilchauhan/Documents/sts_workspace/microservice-project/microservice-parent/product-services/src/main/java/com/asc/productservice/controller/ProductController.java
